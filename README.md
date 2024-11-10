@@ -54,3 +54,5 @@ To work with this repository, ensure you have the following tools installed:
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improving the analysis, or additional insights, please open an issue or submit a pull request.
+
+Author: xrl3y
